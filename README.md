@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=e7e7e7&fontSize=40&descSize=20&height=100&text=CGABRIEU&fontAlign=55&fontAlignY=28&desc=Full%20Stack%20Web%20Developer&descAlign=81.&descAlignY=40&fontColor=383838)
 <div align="center">
-  <h3>A passionate Full Stack Developer from Espírito Santo, Brazil</h3>
-  <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="40" align="center" />
+  <h2> Hey there, I'm Gabriel 🔥</h2>
+  <p>A passionate Full Stack Developer from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" /></p>
+  
 </div>
 <br>
 <!-- Badges Start -->
