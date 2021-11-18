@@ -60,11 +60,7 @@
 
 <hr>
 
-<div align="center">
-  <h3>Statistics</h3>
-  
-  ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=stars,issues&show_icons=true&theme=radical&border_color=fe428e&bg_color=000&border_radius=18&custom_title=GitHub%20Stats)
-
+<h3 align="center">Statistics</h3>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
@@ -147,4 +143,10 @@ HTML                     2 repos             ███░░░░░░░░�
  Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
 
-</div>
+<hr>
+
+<center>
+  
+    ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=stars,issues&show_icons=true&theme=radical&border_color=fe428e&bg_color=000&border_radius=18&custom_title=GitHub%20Stats)
+  
+</center>
