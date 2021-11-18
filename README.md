@@ -34,3 +34,9 @@
 <hr>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/bruch0/rubix-store-backend/pull/13) in [bruch0/rubix-store-backend](https://github.com/bruch0/rubix-store-backend)
+2. 💪 Opened PR [#16](https://github.com/bruch0/rubix-store/pull/16) in [bruch0/rubix-store](https://github.com/bruch0/rubix-store)
+3. 🎉 Merged PR [#15](https://github.com/bruch0/rubix-store/pull/15) in [bruch0/rubix-store](https://github.com/bruch0/rubix-store)
+4. 🎉 Merged PR [#14](https://github.com/bruch0/rubix-store/pull/14) in [bruch0/rubix-store](https://github.com/bruch0/rubix-store)
+5. 🎉 Merged PR [#12](https://github.com/bruch0/rubix-store-backend/pull/12) in [bruch0/rubix-store-backend](https://github.com/bruch0/rubix-store-backend)
+<!--END_SECTION:activity-->
