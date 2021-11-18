@@ -49,10 +49,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
   <br>
+  <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
+  <br>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <br>
-  <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  
 </p>
 </div>
 
