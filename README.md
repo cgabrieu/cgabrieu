@@ -60,7 +60,7 @@
 
 <hr>
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">Statistics (i love it)</h3>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-278-blue)
