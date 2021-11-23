@@ -1,8 +1,8 @@
 <div align="center">
-  <h2> Hey there, I'm Gabriel 🔥</h2>
-  <p>A passionate Full Stack Developer from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" /></p>
-  
+  <h3> Hey there, I'm Gabriel 🔥</h3>
+  <p> - A passionate Full Stack Developer from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" /></p>
 </div>
+<br/>
 <!-- Badges Start -->
 <div align="center">
   <!-- Outlook Email -->
@@ -40,20 +40,20 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <br>
+  <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+  <br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <br>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
-  <br>
-  <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
-  <br>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  <br>
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
   
 </p>
 </div>
@@ -77,15 +77,6 @@
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-🌆 Daytime    138 commits    ████████░░░░░░░░░░░░░░░░░   33.17% 
-🌃 Evening    109 commits    ██████░░░░░░░░░░░░░░░░░░░   26.2% 
-🌙 Night      122 commits    ███████░░░░░░░░░░░░░░░░░░   29.33%
-
-```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -103,7 +94,6 @@ Sunday       88 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 JSX                      29 hrs 3 mins       ███████████████░░░░░░░░░░   63.24% 
@@ -111,36 +101,7 @@ JavaScript               15 hrs 8 mins       ████████░░░�
 JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
 SQL                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
 Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
-
-🔥 Editors: 
-VS Code                  45 hrs 56 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rubix-store              32 hrs 26 mins      █████████████████░░░░░░░░   70.61% 
-rubix-store-backend      10 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   22.24% 
-gratibox-backend         2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-mywallet_backend         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
-💻 Operating System: 
-Linux                    45 hrs 56 mins      █████████████████████████   100.0%
-
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               15 repos            ██████████████████████░░░   88.24% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/cgabrieu/cgabrieu/main/charts/bar_graph.png) 
-
-
  Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 
