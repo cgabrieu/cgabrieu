@@ -3,12 +3,8 @@
   <p> - A passionate Full Stack Developer from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" /></p>
 </div>
 <br/>
-<!-- Badges Start -->
+
 <div align="center">
-  <!-- Outlook Email -->
-  <!-- <a href="mailto:carlosgabrielpc@live.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook e-mail">
-  </a> -->
   <!-- Telegram -->
   <a href="https://t.me/cgabrieu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&&logo=telegram&logoColor=white" alt="Telegram">
@@ -22,7 +18,7 @@
   </a>
 </div>
 
-<hr>
+***
 
 <div align="center">
   <h3>Things I code with</h3>
