@@ -106,6 +106,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 <div align="center">
   
-  ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=stars,issues&show_icons=true&theme=radical&border_color=fe428e&bg_color=000&border_radius=18&custom_title=GitHub%20Stats)
+  ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=fe428e&bg_color=000&border_radius=18&custom_title=GitHub%20Stats)
   
 </div>
