@@ -63,19 +63,19 @@
 <h3 align="center">Statistics (i love it)</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-296-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-339-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 540 Contributions in the Year 2021
+> 🏆 541 Contributions in the Year 2021
  > 
 > 📦 15.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
