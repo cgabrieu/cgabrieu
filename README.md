@@ -63,9 +63,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 547 Contributions in the Year 2021
+> 🏆 550 Contributions in the Year 2021
  > 
-> 📦 15.3 kB Used in GitHub's Storage 
+> 📦 15.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -88,14 +88,14 @@ Other                    31 mins             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ██████████████████████░░░   88.89% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               17 repos            ██████████████████████░░░   89.47% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
 
 ```
 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <hr>
