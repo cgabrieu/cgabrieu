@@ -59,11 +59,11 @@
 <h3 align="center">Statistics (i love it)</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-365-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-367-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 572 Contributions in the Year 2021
+> 🏆 612 Contributions in the Year 2021
  > 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
