@@ -59,11 +59,13 @@
 <h3 align="center">Statistics (i love it)</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-385-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-370-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 690 Contributions in the Year 2021
+> 🏆 704 Contributions in the Year 2021
  > 
 > 📦 17.2 kB Used in GitHub's Storage 
  > 
@@ -95,7 +97,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
 <hr>
