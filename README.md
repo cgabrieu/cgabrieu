@@ -21,9 +21,6 @@
 <p>
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
   <br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
-  <br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=410093" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
