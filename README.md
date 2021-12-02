@@ -1,19 +1,19 @@
 <div align="center">
   <h3> Hey there, I'm Gabriel 🔥</h3>
-  <p> A passionate web full stack dev from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="30" align="center" /></p>
+  <p> A passionate web full stack dev from Espírito Santo, Brazil </p>
 </div>
 
 <div align="center">
   <!-- Telegram -->
   <a href="https://t.me/cgabrieu">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&&logo=telegram" alt="Telegram">
   </a>
   <a href="https://www.instagram.com/cgavrieu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&&logo=instagram" alt="Instagram">
   </a>
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/cgabrieu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&&logo=linkedin&logoColor=white" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
   </a>
 </div>
 
@@ -22,33 +22,25 @@
 <div align="center">
   <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
   <br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=c03c14" />
   <br>
-  <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=410093" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
   <br>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
   <br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <br>
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
   
 </p>
 </div>
@@ -90,10 +82,8 @@ Other                    28 mins             ░░░░░░░░░░░�
  Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
-<hr>
-
 <div align="center">
   
-  ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=fe428e&bg_color=000&border_radius=18&custom_title=GitHub%20Stats)
+  ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
   
 </div>
