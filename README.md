@@ -19,25 +19,25 @@
 
 ## Things I code with
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
+  <br>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
+  <br>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=410093" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
   <br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=c03c14" />
   <br>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=410093" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
-  <br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github" />
-  <br>
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
   
 </p>
 
