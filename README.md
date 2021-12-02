@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Hey there, I'm Gabriel 🔥</h3>
+  <h2> Hey there, I'm Gabriel 🔥</h2>
   <p> A passionate web full stack dev from Espírito Santo, Brazil </p>
 </div>
 
@@ -17,10 +17,7 @@
   </a>
 </div>
 
-***
-
-<div align="center">
-  <h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
@@ -43,11 +40,8 @@
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
   
 </p>
-</div>
 
-<hr>
-
-<h3 align="center">Statistics (i love it)</h3>
+## Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2018%20mins-blue)
