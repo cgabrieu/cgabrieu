@@ -1,8 +1,7 @@
 <div align="center">
   <h3> Hey there, I'm Gabriel 🔥</h3>
-  <p> - A passionate Full Stack Developer from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="40" align="center" /></p>
+  <p> A passionate web full stack dev from Espírito Santo, Brazil <img src="https://seeklogo.com/images/B/bandeira-espirito-santo-logo-84A20EA9E2-seeklogo.com.png" width="30" align="center" /></p>
 </div>
-<br/>
 
 <div align="center">
   <!-- Telegram -->
