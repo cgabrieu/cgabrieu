@@ -41,19 +41,19 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 711 Contributions in the Year 2021
+> 🏆 743 Contributions in the Year 2021
  > 
 > 📦 17.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -61,16 +61,16 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 hrs 23 mins      ████████████░░░░░░░░░░░░░   51.42% 
-JSX                      10 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   37.38% 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
-CSS                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+JavaScript               24 hrs 53 mins      █████████████████░░░░░░░░   71.36% 
+JSX                      6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+CSS                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
 
 ```
 
 
- Last Updated on 02/12/2021
+ Last Updated on 04/12/2021
 <!--END_SECTION:waka-->
 
 <div align="center">
