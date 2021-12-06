@@ -40,7 +40,9 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +69,7 @@ Markdown                 27 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 <div align="center">
