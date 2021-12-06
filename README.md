@@ -32,6 +32,7 @@
   <br>
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
   
