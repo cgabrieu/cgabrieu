@@ -41,11 +41,9 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2058%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 787 Contributions in the Year 2021
+> 🏆 793 Contributions in the Year 2021
  > 
 > 📦 17.7 kB Used in GitHub's Storage 
  > 
@@ -59,16 +57,16 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               24 hrs 30 mins      ███████████████████████░░   92.23% 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71% 
-Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-JSX                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+JavaScript               23 hrs 49 mins      ███████████████████████░░   91.91% 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
+JSX                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 ```
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
