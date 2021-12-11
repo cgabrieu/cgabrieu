@@ -1,4 +1,7 @@
-#### Hey there, I'm Gabriel 🔥
+<div align="center">
+  
+  #### Hey there, I'm Gabriel 🔥
+  
   <h6> A passionate web full stack dev from Espírito Santo, Brazil </h6>
   <a href="https://t.me/cgabrieu">
     <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&&logo=telegram" alt="Telegram">
@@ -9,7 +12,9 @@
   <a href="https://www.linkedin.com/in/cgabrieu/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
   </a>
+</div>
 
+<br/>
 <br/>
 
 #### 👨‍💻 Things I code with
