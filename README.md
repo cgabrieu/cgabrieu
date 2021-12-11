@@ -1,5 +1,4 @@
-<div align="center">
-  <h4> Hey there, I'm Gabriel 🔥</h4>
+#### Hey there, I'm Gabriel 🔥
   <h6> A passionate web full stack dev from Espírito Santo, Brazil </h6>
   <a href="https://t.me/cgabrieu">
     <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&&logo=telegram" alt="Telegram">
@@ -10,11 +9,10 @@
   <a href="https://www.linkedin.com/in/cgabrieu/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
   </a>
-</div>
 
 <br/>
 
-#### Things I code with
+#### 👨‍💻 Things I code with
 <p>
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
@@ -33,8 +31,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
 </p>
-
-<br/>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
