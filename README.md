@@ -1,23 +1,20 @@
 <div align="center">
-  <h2> Hey there, I'm Gabriel 🔥</h2>
-  <p> A passionate web full stack dev from Espírito Santo, Brazil </p>
-</div>
-
-<div align="center">
-  <!-- Telegram -->
+  <h4> Hey there, I'm Gabriel 🔥</h4>
+  <h6> A passionate web full stack dev from Espírito Santo, Brazil </h6>
   <a href="https://t.me/cgabrieu">
     <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&&logo=telegram" alt="Telegram">
   </a>
   <a href="https://www.instagram.com/cgavrieu">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&&logo=instagram" alt="Instagram">
   </a>
-  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/cgabrieu/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
   </a>
 </div>
 
-## Things I code with
+<br/>
+
+#### Things I code with
 <p>
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=283f6e" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
@@ -35,10 +32,9 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
-  
 </p>
 
-## Statistics
+<br/>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
