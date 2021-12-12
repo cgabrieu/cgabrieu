@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 796 Contributions in the Year 2021
+> 🏆 799 Contributions in the Year 2021
  > 
 > 📦 17.7 kB Used in GitHub's Storage 
  > 
@@ -54,16 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 hrs 29 mins      ██████████████████████░░░   89.61% 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-TypeScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+JavaScript               13 hrs 52 mins      █████████████████████░░░░   83.64% 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
+TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
+SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 ```
 
 
- Last Updated on 11/12/2021
+ Last Updated on 12/12/2021
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
