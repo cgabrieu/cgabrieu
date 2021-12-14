@@ -38,11 +38,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 814 Contributions in the Year 2021
+> 🏆 912 Contributions in the Year 2021
  > 
 > 📦 17.8 kB Used in GitHub's Storage 
  > 
@@ -65,7 +65,7 @@ Git Config               9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
