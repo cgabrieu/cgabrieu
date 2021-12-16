@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 913 Contributions in the Year 2021
+> 🏆 917 Contributions in the Year 2021
  > 
 > 📦 17.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -54,16 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 48 mins      █████████████████░░░░░░░░   70.29% 
-JSON                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+TypeScript               12 hrs 53 mins      █████████████████░░░░░░░░   69.15% 
+JSON                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+SQL                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 ```
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
