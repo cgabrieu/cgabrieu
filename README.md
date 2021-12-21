@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 921 Contributions in the Year 2021
+> 🏆 977 Contributions in the Year 2021
  > 
 > 📦 17.8 kB Used in GitHub's Storage 
  > 
@@ -54,16 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 24 mins      █████████████░░░░░░░░░░░░   55.47% 
-JSX                      6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94% 
-JSON                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
+TypeScript               17 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.97% 
+JSX                      10 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   30.46% 
+JSON                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
+JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
 
 ```
 
 
- Last Updated on 20/12/2021
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
