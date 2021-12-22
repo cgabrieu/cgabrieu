@@ -15,7 +15,6 @@
 </div>
 
 <br/>
-<br/>
 
 #### 👨‍💻 Things I code with
 <p>
