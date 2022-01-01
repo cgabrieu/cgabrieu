@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,014 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
@@ -53,15 +53,12 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ███████████████████████░░   94.0% 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
