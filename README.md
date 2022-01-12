@@ -53,14 +53,15 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 min               ████████████████████░░░░░   82.55% 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
+TypeScript               3 mins              ████████████░░░░░░░░░░░░░   48.17% 
+JavaScript               3 mins              ██████████░░░░░░░░░░░░░░░   41.83% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
 
 ```
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
