@@ -4,13 +4,13 @@
   
   <h6> A passionate web full stack dev from Espírito Santo, Brazil </h6>
   <a href="https://t.me/cgabrieu">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&&logo=telegram" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/cgavrieu">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&&logo=instagram" alt="Instagram">
+  <a href="mailto:carlosgabrielpc@live.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=0a66c2" alt="Outlook">
   </a>
   <a href="https://www.linkedin.com/in/cgabrieu/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&&logo=linkedin&logoColor=0a66c2" alt="Linkedin">
   </a>
 </div>
 
@@ -27,6 +27,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/TypeORM-000000?style=flat-square&logo=typeorm" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=c03c14" />
   <br>
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
