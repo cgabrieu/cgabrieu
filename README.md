@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 89 Contributions in the Year 2022
+> 🏆 121 Contributions in the Year 2022
  > 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -54,16 +54,14 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.09% 
-TypeScript               10 hrs 57 mins      ███████████░░░░░░░░░░░░░░   45.51% 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-INI                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+JavaScript               2 hrs 48 mins       ████████████████████████░   95.91% 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
 
 ```
 
 
- Last Updated on 30/01/2022 00:25:18 UTC
+ Last Updated on 08/02/2022 00:26:12 UTC
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
