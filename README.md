@@ -40,28 +40,30 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 121 Contributions in the Year 2022
+> 🏆 128 Contributions in the Year 2022
  > 
-> 📦 17.9 kB Used in GitHub's Storage 
+> 📦 18.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 48 mins       ████████████████████████░   95.91% 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+TypeScript               52 mins             █████████░░░░░░░░░░░░░░░░   35.58% 
+JavaScript               52 mins             ████████░░░░░░░░░░░░░░░░░   35.3% 
+JSON                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25% 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 ```
 
 
- Last Updated on 08/02/2022 00:26:12 UTC
+ Last Updated on 11/02/2022 00:26:02 UTC
 <!--END_SECTION:waka-->
 
 [//]: ![stats](https://github-readme-stats.vercel.app/api?username=cgabrieu&count_private=true&hide=issues&show_icons=true&theme=radical&border_color=000&bg_color=000&border_radius=10&custom_title=GitHub%20Stats)
