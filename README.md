@@ -1,4 +1,4 @@
-👋 Hey! I'm Carlos - a full-stack & iOS developer with 3+ years of experience. I work with Node.js, React, SwiftUI and AWS (AppSync, Lambda, DynamoDB, etc.), building apps end to end.
+👋 Hey! I'm a full-stack & iOS developer with 3+ years of experience. I work with Node.js, React, SwiftUI and AWS (AppSync, Lambda, DynamoDB, etc.), building apps end to end.
 
 💡 I'm all about writing clean, readable code that’s easy to maintain. I follow Clean Code principles, cover features with automated tests and keep performance and simplicity in mind.
 
